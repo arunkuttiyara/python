@@ -3,7 +3,7 @@
 #For Linux
 # test in local 
 # added a new line in master for testing 
-# test from remote server
+
 
 import socket
 
